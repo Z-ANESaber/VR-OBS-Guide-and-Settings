@@ -1,5 +1,7 @@
 # VR-OBS-Settings
 
+This guide can be applied to **both VR and Non-VR games**. The provided settings are my personal settings with explanations on what each setting does so you can edit the settings according to what you need.
+
 # To get started check out the wiki below:
 <a href="/">
 <img height=150 alt="Get started" src="https://github.com/Z-ANESaber/VR-OBS-Settings/assets/73610021/b20054fb-c764-41e0-9d51-f365d31d27d3"></img></a>
@@ -9,9 +11,13 @@
 <br>
 <br>
 
-# To view any of the sample footage click below:
+# To view the sample footage click below:
 <a href="/">
 <img height=150 alt="Video samples" src="https://github.com/Z-ANESaber/VR-OBS-Settings/assets/73610021/a3c973a4-9304-4df4-a58e-1a0acd61a392"></img></a>
+<br>
+
+> [!NOTE]
+> Due to YouTube's compression the actual video quality and sharpness may vary.
 
 <br>
 <br>
@@ -26,6 +32,17 @@
 <a href="https://github.com/Z-ANESaber">
 <img height=150 alt="Video samples" src="https://github.com/Z-ANESaber/VR-OBS-Settings/assets/73610021/22374e44-1872-4ee9-a311-414a0b2cfc2b"></img></a>
 
+<br>
+<br>
+<br>
+<br>
 
+## Changelog
+
+28/06/2024:
+- Added sample footage
+
+27/06/2024:
+- Initial creation of readme and wiki
 
 
