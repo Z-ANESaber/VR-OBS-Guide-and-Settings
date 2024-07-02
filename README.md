@@ -10,7 +10,7 @@ This guide can be applied to **both VR and Non-VR games**. The provided settings
 <br>
 
 # To view the sample footage click below:
-<a href="/">
+<a href="https://www.youtube.com/playlist?list=PLHbZJONuiKlZSSRF4Cr73jEdvhhe5ipLM">
 <img height=150 alt="Video samples" src="https://github.com/Z-ANESaber/VR-OBS-Settings/assets/73610021/a3c973a4-9304-4df4-a58e-1a0acd61a392"></img></a>
 <br>
 
@@ -24,11 +24,11 @@ This guide can be applied to **both VR and Non-VR games**. The provided settings
 
 # For any questions feel free to reach out!
 <a href="https://twitter.com/ZAnesaber">
-<img height=150 alt="Video samples" src="https://github.com/Z-ANESaber/VR-OBS-Settings/assets/73610021/12350db5-05c2-49b4-b70c-b0d93ac91816"></img></a>
+<img height=150 alt="Twitter link" src="https://github.com/Z-ANESaber/VR-OBS-Settings/assets/73610021/12350db5-05c2-49b4-b70c-b0d93ac91816"></img></a>
 <a href="https://www.youtube.com/channel/UCPjIt_8Y__QFHB-CVHjrfrw">
-<img height=150 alt="Video samples" src="https://github.com/Z-ANESaber/VR-OBS-Settings/assets/73610021/49a83451-34da-496d-9df9-64f320e84863"></img></a>
+<img height=150 alt="YouTube link" src="https://github.com/Z-ANESaber/VR-OBS-Settings/assets/73610021/49a83451-34da-496d-9df9-64f320e84863"></img></a>
 <a href="https://github.com/Z-ANESaber">
-<img height=150 alt="Video samples" src="https://github.com/Z-ANESaber/VR-OBS-Settings/assets/73610021/22374e44-1872-4ee9-a311-414a0b2cfc2b"></img></a>
+<img height=150 alt="Github link" src="https://github.com/Z-ANESaber/VR-OBS-Settings/assets/73610021/22374e44-1872-4ee9-a311-414a0b2cfc2b"></img></a>
 
 <br>
 <br>
