@@ -1,5 +1,3 @@
-# VR-OBS-Settings
-
 This guide can be applied to **both VR and Non-VR games**. The provided settings are my personal settings with explanations on what each setting does so you can edit the settings according to what you need.
 
 # To get started check out the wiki below:
