@@ -16,7 +16,7 @@ So you can edit the settings according to what you need + some optional software
 <br>
 
 > [!NOTE]
-> Due to YouTube's compression the actual video quality and sharpness may vary.
+> Due to YouTube's compression the actual video quality and sharpness may vary. But it should give you a basic idea of the quality
 
 <br>
 <br>
