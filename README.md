@@ -1,4 +1,4 @@
-This guide can be applied to **both VR and Non-VR games**. The provided settings are my personal settings with explanations on what each setting does so you can edit the settings according to what you need.
+This guide can be applied to **both VR and Non-VR games**. The provided settings are my personal settings with explanations on what each setting does so you can edit the settings according to what you need + some otional software to further enhance your videos.
 
 # To get started check out the wiki below:
 <a href="https://github.com/Z-ANESaber/VR-OBS-Guide-and-Settings/wiki/1-%E2%80%90-Introduction">
@@ -36,6 +36,12 @@ This guide can be applied to **both VR and Non-VR games**. The provided settings
 <br>
 
 ## Changelog
+
+18/07/2024:
+- Made the repository public
+- Created the wiki
+- Finished about 95% of the OBS part
+- Created all the pages for structuring
 
 28/06/2024:
 - Added sample footage
