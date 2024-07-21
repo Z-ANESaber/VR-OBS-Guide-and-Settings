@@ -38,16 +38,21 @@ So you can edit the settings according to what you need + some optional software
 
 ## Changelog
 
-18/07/2024:
+V. 1.0 - 21/07/2024:
+- Finished all the pages
+- First full release
+- Added version numbers to changelog
+
+V. 0.9 - 18/07/2024:
 - Made the repository public
 - Created the wiki
 - Finished about 95% of the OBS part
 - Created all the pages for structuring
 
-28/06/2024:
+V. 0.2 - 28/06/2024:
 - Added sample footage
 
-27/06/2024:
+V. 0.1 - 27/06/2024:
 - Initial creation of readme and wiki
 
 
