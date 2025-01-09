@@ -24,8 +24,6 @@ So you can edit the settings according to what you need + some optional software
 <br>
 
 # For any questions feel free to reach out!
-<a href="https://twitter.com/ZAnesaber">
-<img height=150 alt="Twitter link" src="https://github.com/Z-ANESaber/VR-OBS-Settings/assets/73610021/12350db5-05c2-49b4-b70c-b0d93ac91816"></img></a>
 <a href="https://www.youtube.com/channel/UCPjIt_8Y__QFHB-CVHjrfrw">
 <img height=150 alt="YouTube link" src="https://github.com/Z-ANESaber/VR-OBS-Settings/assets/73610021/49a83451-34da-496d-9df9-64f320e84863"></img></a>
 <a href="https://github.com/Z-ANESaber">
@@ -37,6 +35,13 @@ So you can edit the settings according to what you need + some optional software
 <br>
 
 ## Changelog
+V. 1.1 - 09/01/2025:
+- Added several notes throughout
+- Added titles to stream and record settings on AMD GPUs section
+- Added downsample filter explanation
+- Removed Twitter from contacts section
+- Updated screenshots for recording and streaming settings for latest OBS version
+- Fixed some spelling
 
 V. 1.0 - 21/07/2024:
 - Finished all the pages
